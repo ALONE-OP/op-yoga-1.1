@@ -38,8 +38,8 @@ i will update it again soon..
 
 ## License
 
-MIT License
 Copyright (c) [2021] [ALONE OP]
+
 Note: This Resource is completely Free and Hence Not to be Sold to anyone in under any Circumstances.
 
 ---
