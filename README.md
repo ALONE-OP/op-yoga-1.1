@@ -39,15 +39,7 @@ i will update it again soon..
 ## License
 
 MIT License
-
 Copyright (c) [2021] [ALONE OP]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this file and associated documentation files (the "op-yoga"), to deal
-in the file without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the file, and to permit persons to whom the file is
-furnished to do so, subject to the following conditions:
 Note: This Resource is completely Free and Hence Not to be Sold to anyone in under any Circumstances.
 
 ---
