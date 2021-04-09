@@ -32,7 +32,7 @@ i will update it again soon..
     just put the file in your resource folder and add ensure op-yoga to your server.cfg and/or you can use the client and server with other file to save some file space
 ```
 ```html
-    Before starting it
+    Before starting it make sure to change the TriggerEvent for decreasing stress to your hud or whatever kind of stress system You use
 ```
 ---
 
