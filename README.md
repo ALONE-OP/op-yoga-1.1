@@ -48,8 +48,8 @@ in the file without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the file, and to permit persons to whom the file is
 furnished to do so, subject to the following conditions:
+Note: This Resource is completely Free and Hence Not to be Sold to anyone in under any Circumstances.
 
-This Resource is completely Free and Hence Not to be Sold to anyone in under any Circumstances.
 ---
 
 ## Author Info
